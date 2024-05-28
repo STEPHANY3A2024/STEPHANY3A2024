@@ -1,6 +1,6 @@
-## Hi there 👋
+stephany yasmin, estuda no 3 anos do ensino médio, tenho 17 anos.
 
-<!--
+
 **STEPHANY3A2024/STEPHANY3A2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
